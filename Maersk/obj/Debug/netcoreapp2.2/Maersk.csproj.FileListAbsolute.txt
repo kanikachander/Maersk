@@ -1,0 +1,11 @@
+C:\Users\ea915e\source\repos\Maersk\Maersk\bin\Debug\netcoreapp2.2\Maersk.deps.json
+C:\Users\ea915e\source\repos\Maersk\Maersk\bin\Debug\netcoreapp2.2\Maersk.runtimeconfig.json
+C:\Users\ea915e\source\repos\Maersk\Maersk\bin\Debug\netcoreapp2.2\Maersk.runtimeconfig.dev.json
+C:\Users\ea915e\source\repos\Maersk\Maersk\bin\Debug\netcoreapp2.2\Maersk.dll
+C:\Users\ea915e\source\repos\Maersk\Maersk\bin\Debug\netcoreapp2.2\Maersk.pdb
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.csprojAssemblyReference.cache
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.csproj.CoreCompileInputs.cache
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.AssemblyInfoInputs.cache
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.AssemblyInfo.cs
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.dll
+C:\Users\ea915e\source\repos\Maersk\Maersk\obj\Debug\netcoreapp2.2\Maersk.pdb
